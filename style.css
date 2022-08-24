@@ -1,0 +1,112 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Aboreto", cursive;
+}
+body {
+  background-color: rgb(255, 240, 240);
+}
+.warepper {
+  width: 85%;
+  margin: auto;
+}
+.header {
+  margin: 20px 0;
+}
+.logotip {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo_item {
+  padding: 10px;
+}
+.logo_text {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 700;
+}
+.main {
+  background-image: url("не_кампудахтер.png");
+  height: 700px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.main_title {
+  text-transform: uppercase;
+  color: white;
+  font-size: 110px;
+  border-bottom: 2px solid #00a5fd;
+}
+.textp {
+  padding: 10px;
+  border-bottom: 2px solid #00a5fd;
+}
+.go {
+  color: gold;
+  text-decoration: none;
+  border: 1px solid white;
+  margin: auto;
+  border-radius: 10px;
+  width: 125px;
+  margin-top: 30px;
+  padding: 10px 30px;
+}
+.ssulka {
+  text-decoration: none;
+}
+.text {
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.texth2 {
+  margin-bottom: 30px;
+  margin-top: 0px;
+}
+.willi {
+  display: flex;
+  justify-content: center;
+}
+.img1 {
+  width: 300px;
+}
+.div1 {
+  position: relative;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  top: 0px;
+  right: 0px;
+}
+.img2 {
+  width: 300px;
+  height: 409px;
+}
+.img3 {
+  width: 300px;
+}
+.williamson {
+  display: flex;
+  justify-content: center;
+}
+.img4 {
+  width: 300px;
+}
+.img5 {
+  width: 300px;
+  height: 452px;
+}
+.img6 {
+  width: 300px;
+  height: 452px;
+}
+a {
+  padding: 50px;
+}
+img{
+   padding: 50px;
+}
